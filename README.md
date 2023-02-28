@@ -8,7 +8,7 @@
 
     Integrantes: Almachi Joseph
 
-    NRC:10066 - 10067
+    NRC: 10067
 
 Docente: Ing. Darwin Omar Alulema Fores
 
@@ -39,6 +39,31 @@ MARCO TEORICO:
 ![image](https://user-images.githubusercontent.com/86561660/221940527-14dfff5e-5ebf-4ee3-bf7d-6717e995d595.png)
 
 
+PROCEDIMIENTO 
+
+![image](https://user-images.githubusercontent.com/86561660/221963831-c125986a-05cf-4a65-a1a3-8dfd3e5d5724.png)
+
+Paso 1: Colocamos el circuito integrado, con la pequeña ranura hacia la izquierda
+
+Paso 2: Hacemos un puente de la pata 2 a la pata 4 del circuito integrado
+
+Paso 3: Conectamos la pata positiva del condensador, a la pata 5 del circuito integrado, y la negativa del condensador a cuaqluier punto
+
+Paso 4: Colocamos el potenciómetro de 10k
+
+Paso 5: Conectamos un cable de la pata 2 del circuito integrado, hasta la pata izquierda del potneciómetro
+
+Paso 6: Conectamos un cable de la pata 3 del circuito integrado, hasta la pata central del potenciómetro
+
+Paso 7: La pata derecha del potenciómetro y la pata 4 del circuito integrado serán la entrada de señal de audio; por lo que conectamos el plug cable:
+
+Paso 8: Conectamos un cable de la pata 2 del circuito integrado, hasta el lado negativo de la protoboard
+
+Paso 9: Conectamos un cable de la pata 6 del circuito integrado, hasta el lado positivo de la protoboard
+
+Paso 10: Conectamos la bocina, un cable al lado negativo del condensador y el otro cable de la bocina a la pata 4 del circuito integrado:
+
+Paso 11: Conectamos la fuente de voltaje a 9.5 V, y de igual forma nuestro reproductor de música (teléfono celular)
 
 
 FUNCIONAMIENTO:
@@ -63,13 +88,11 @@ En conclusión, la construcción de un mini amplificador de audio casero es una 
 
 Es importante tener en cuenta que la construcción de un amplificador de audio casero requiere conocimientos básicos de electrónica y habilidades prácticas en el manejo de herramientas y componentes electrónicos. También es importante seguir cuidadosamente las instrucciones de construcción y tomar las precauciones necesarias para evitar riesgos de seguridad.
 
-BIBLIOGRAFIA;
+BIBLIOGRAFIA
 
-• "¿Cómo funciona un amplificador? - Instituto Humart". Instituto Humart.
-https://institutohumart.org/como-funciona-un-amplificador/#:~:text=En%20términos%20generales,%20un%20amplificador,recibe%20aumentada%20en%20la%20salida. (accedido el 28 de febrero de 2023).
+Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
 
-Link del video de referencia para el proyecto:
+Horenstein Mark N. Microelectrónica circuitos y dispositivos. 2a. Ed. Prentice Hall, 1997.
 
-https://www.youtube.com/watch?v=8U0o1pAvK20
-
+Millman y Grabel. Microelectrónica. Mc Graw Hill. 1989.
 
