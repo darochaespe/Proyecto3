@@ -4,7 +4,7 @@
 
     FUNDAMENTO DE CIRCUITOS ELECTRICOS
 
-    Integrantes: Almachi Joseph
+    Integrantes: Almachi Joseph, Rocha Dilan, Terán Kail
 
     NRC: 10067
 
@@ -16,19 +16,18 @@ OBJETIVOS:
 
 OBJETIVOS GENERAL
 
-Elaborar un circuito de baja potencia 0.2 watts(Mini Amplificador De Audio Casero), mediante la implementación de materiales básicos, para elevar la señal de audio de nuestro celular, MP3, tablet, entre otros; este proyecto se ayuda con los conocimientos adquiridos en clase hasta hoy
+• Elaborar un amplificador de audio casero con materiales caseros.
+
+• Analizar la estructura eléctrica del amplificador.
 
 OBJETIVOS ESPECIFICOS:
 
-• Identificar los componentes básicos de un amplificador de audio, tales como resistencias, capacitores, transistores, etc.
+• Identificar las resistencias y capacitores utilizados dentro del circuito.
 
-• Entender el papel que desempeña cada uno de estos componentes en el circuito del amplificador de audio.
+• Comprender la relación entre la corriente y las partes del circuito.
 
-• Aprender a diseñar un circuito de amplificador de audio básico utilizando un programa de simulación de circuitos.
+• Diseñar un diagrama eléctrico con los componente del amplificador.
 
-• Aprender a ajustar y calibrar el amplificador de audio para obtener un buen rendimiento y calidad de sonido.
-
-• Desarrollar habilidades en la resolución de problemas y la solución de errores comunes en la construcción del amplificador de audio.
 
 MARCO TEORICO:
 
